@@ -1,0 +1,3 @@
+Aqui podemos deixar informações importantes como os dados de conexão.
+link do servidor.
+Testes realizados entre outras coisas.
