@@ -1,12 +1,12 @@
 <?php
 
-$servidor = 'fdb26.biz.nf';
+$servidor = '';
 
-$senha ='mopp4h2019';
+$senha ='';
 
-$usuario ='2965872_meubanco';
+$usuario ='';
 
-$bdados ='2965872_meubanco';
+$bdados ='';
 
 ?>
 
